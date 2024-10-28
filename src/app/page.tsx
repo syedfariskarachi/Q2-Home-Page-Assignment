@@ -20,7 +20,7 @@ export default function Home() {
         <div style={{display:"flex",flexDirection:"row",marginTop:"50px" ,width:"auto"}}>
           <div style={{width:"50vw",marginLeft:"90px",}}>
 
-          <h1 style={{fontWeight:"bold",height:"auto",fontSize:"30px"}}><i><em>Hi, I am Faris, <br /> Creative Technologist</em></i></h1>
+          <h1 style={{fontWeight:"bold",height:"auto",fontSize:"30px"}}><i><em>Hi, I am John, <br /> Creative Technologist</em></i></h1>
           <p style={{marginTop:"9px"}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure error ut ab porro! Animi voluptate rem accusamus explicabo maxime incidunt?</p>
           <button style={{backgroundColor:"red",borderRadius:"7px",width:"130px",height:"30px",fontSize:"12px",marginTop:"20px"}}>Download Resume</button>
           </div>
