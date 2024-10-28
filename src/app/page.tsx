@@ -26,7 +26,7 @@ export default function Home() {
           </div>
           
         <div>
-          <Image src="/images/img5.jpg" alt="eror" width={200} height={50} style={{border:"2px solid blue",borderRadius:"100px", width:"15vw",height:"30vh", boxShadow: "0px 4px 8px rgba(1.5, 0, 1, 1)"}}/ >
+          <Image src="/images/img5.jpg" alt="eror" width={200} height={50} style={{border:"1px solid black",borderRadius:"100px", width:"14vw",height:"30vh", boxShadow: "0px 4px 8px rgba(1.5, 0, 1, 1)"}}/ >
         </div>
         </div>
         <div style={{marginTop:"50px"}}>
