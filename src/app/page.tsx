@@ -20,13 +20,13 @@ export default function Home() {
         <div style={{display:"flex",flexDirection:"row",marginTop:"50px" ,width:"auto"}}>
           <div style={{width:"50vw",marginLeft:"90px",}}>
 
-          <h1 style={{fontWeight:"bold",height:"auto",fontSize:"30px"}}><i><em>Hi, I am John, <br /> Creative Technologist</em></i></h1>
+          <h1 style={{fontWeight:"bold",height:"auto",fontSize:"30px"}}><i><em>Hi, I am Faris, <br /> Creative Technologist</em></i></h1>
           <p style={{marginTop:"9px"}}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure error ut ab porro! Animi voluptate rem accusamus explicabo maxime incidunt?</p>
           <button style={{backgroundColor:"red",borderRadius:"7px",width:"130px",height:"30px",fontSize:"12px",marginTop:"20px"}}>Download Resume</button>
           </div>
           
         <div>
-          <Image src="/images/img5.jpg" alt="eror" width={200} height={50} style={{border:"1px solid black",borderRadius:"100px", width:"14vw",height:"30vh", boxShadow: "0px 4px 8px rgba(1.5, 0, 1, 1)"}}/ >
+          <Image src="/images/img5.jpg" alt="eror" width={200} height={50} style={{border:"2  px solid blue",borderRadius:"100px", width:"15vw",height:"30vh", boxShadow: "0px 4px 8px rgba(1.5, 0, 1, 1)"}}/ >
         </div>
         </div>
         <div style={{marginTop:"50px"}}>
@@ -128,7 +128,7 @@ export default function Home() {
           
 </div>
 <div style={{width:"25vw",justifyContent:"space-around",marginLeft:"500px"}}>
-  <h1 style={{textAlign:"center"}}>Copyright &copy; 2024 All right resered</h1>
+  <h1 style={{textAlign:"center"}}>Copyright  2024 All right resered</h1>
 </div>
 </div>
        </div>
