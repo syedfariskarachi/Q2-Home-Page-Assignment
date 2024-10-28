@@ -128,7 +128,7 @@ export default function Home() {
           
 </div>
 <div style={{width:"25vw",justifyContent:"space-around",marginLeft:"500px"}}>
-  <h1 style={{textAlign:"center"}}>Copyright  2024 All right resered</h1>
+  <h1 style={{textAlign:"center"}}>Copyright &copy; 2024 All right resered</h1>
 </div>
 </div>
        </div>
